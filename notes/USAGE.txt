@@ -1,0 +1,4 @@
+USAGE Kimi-K3-Code-Free-Desktop
+kimi k3. huggingface. 1M context.
+Extract. Run. See readme.
+Stamp rev-p2lg3n-20261021
